@@ -1,0 +1,6 @@
+!instance/.gitignore
+*$py.class
+.DS_Store
+__pycache__/
+*.py[cod]
+*.pyc
