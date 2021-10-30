@@ -74,7 +74,7 @@ class LdapAuth:
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='User login', add_help=True)
+    parser = argparse.ArgumentParser(description='Python LDAP/LDAP(S) login module', add_help=True)
 
     # Parser details
     parser.add_argument("-u", "--usr", default='', required=True, help='Username')

@@ -68,8 +68,6 @@ def covert_yaml_to_fstab(yml_file=None, out_file=None):
 
 
 if __name__ == '__main__':
-    print('How to..')
-
     parser = argparse.ArgumentParser(description='Convert YAML/YML to FSTAB flat file.', add_help=True)
 
     # Parser details
