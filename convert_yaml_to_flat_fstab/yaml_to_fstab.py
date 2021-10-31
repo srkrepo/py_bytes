@@ -1,9 +1,10 @@
-# # -*- coding: utf-8 -*-
-# # - - - - - - - - - - - Sri Pandi - - - - - - - - - - - - - -
-#
-# __author__ = 'Satheesh R'
-#
-# # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# -*- coding: utf-8 -*-
+# - - - - - - - - - - - Sri Pandi - - - - - - - - - - - - - -
+
+__author__ = 'Satheesh R'
+
+# converter util for FSTAB from YAML
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 import argparse
 
